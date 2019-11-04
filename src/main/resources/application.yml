@@ -66,7 +66,7 @@ back:
       maxPoolPreparedStatementPerConnectionSize: 20
 
 server:
-  port: 8090
+  port: 9090
 
 ahas:
   namespace: default

@@ -64,18 +64,6 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
-        <!-- AHAS应用限流 -->
-        <dependency>
-            <groupId>com.alibaba.csp</groupId>
-            <artifactId>ahas-sentinel-client</artifactId>
-            <version>1.3.5</version>
-        </dependency>
-        <!-- 配置启动参数来接入流控降级 -->
-        <dependency>
-            <groupId>com.alibaba.csp</groupId>
-            <artifactId>spring-boot-starter-ahas-sentinel-client</artifactId>
-            <version>1.3.2</version>
-        </dependency>
         <!-- AHAS 网关流控 -->
         <dependency>
             <groupId>com.alibaba.csp</groupId>
